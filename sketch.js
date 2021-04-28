@@ -4,7 +4,7 @@ FACTORY = 3
 HOME = 4
 WIN = 5
 END = 0
-
+//Hello
 var bg, bg_img, bg2, bg2_img, bg3, bg3_img, bg4, bg4_img, bg5, bg5_img;
 
 var house, house_img;
